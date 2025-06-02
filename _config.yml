@@ -20,12 +20,12 @@ source-code: https://viktorinawhite.github.io/wyc
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: "Student Sailing: University of Washington Yacht Club" 
+title: "Student Sailing" 
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: A Digital Exhibit
+tagline: A University of Washington Yacht Club Digital Exhibit
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "Student Sailing: University of Washington Yacht Club offers a glimpse into over 75 years of student-led sailing."
+description: "Student Sailing: A University of Washington Yacht Club Digital Exhibit offers a glimpse into over 75 years of student-led sailing."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Viktorina White
 
