@@ -1,15 +1,15 @@
 field,display_name,browse_link,external_link
 title,Title,
 creator,Creator,
-date,Date Created,
+date_created,Date Created,
 description,Description,
 subject,Subjects,true
 location,Location
 latitude,Latitude
 longitude,Longitude
 source,Source
-identifier,Source Identifier,,
-type,Type,
+objectid,University of Washington Special Collections Negative Number,
+uwyc_identifier,University of Washington Yacht Club Slide Identifier,
 format,Format,
-rights,Rights,
-rightsstatement,Rights Statement,,true
+credit,Credit,
+rights,Rights
