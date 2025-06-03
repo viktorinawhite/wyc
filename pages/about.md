@@ -14,7 +14,7 @@ credits: true
 
 ## About the Collection
 
-This site features a collection of digitized slides from the [University of Washington Yacht Club records](https://archiveswest.orbiscascade.org/ark:80444/xv784378), housed in the University of Washington Special Collections. Established in 1948, these images showcase the dynamic, student-led sailing club. This digital exhibit primarily features images captured between 1960 and 1987, offering a glimpse into the unique tradition of on-campus sailing at the University of Washington Waterfront Activities Center (WAC) and in surrounding waters. Many of the activities depicted—such as social sailing in Union Bay, decorating boats for Opening Day, and the Snooze and Cruise to Blake Island— are still carried on today.  
+This site features a collection of digitized slides from the [University of Washington Yacht Club records](https://archiveswest.orbiscascade.org/ark:80444/xv784378), housed in the University of Washington Special Collections. Established in 1948, this student-run sailing club fosters a unique tradition of on-campus sailing at the University of Washington Waterfront Activities Center (WAC) and in surrounding waters. This digital exhibit primarily features images captured between 1960 and 1987. Many of the activities depicted—such as social sailing in Union Bay, decorating boats for Opening Day, and the Snooze and Cruise to Blake Island— are still carried on today.  
 
 This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
 
